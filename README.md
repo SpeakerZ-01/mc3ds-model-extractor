@@ -3,10 +3,16 @@
 - Kan worden gebruikt om skins, mobs, modellen en BJSON-bestanden met geometrie uit te pakken.
 
 ## Download koppeling
-- Download de nieuwste versie van de releases tab op github
+- Download de nieuwste versie van de releases tab op github.
 - https://github.com/SpeakerZ-01/mc3ds-model-extractor/releases/latest
 
 
 ## Kredieten
 - Dank aan STBrian voor *.bjson bestandsmodule voor Python.
-- Bedankt Minecraft 3DS-gemeenschap
+- Bedankt Minecraft 3DS-gemeenschap.
+
+## Gebruik
+```
+python main.py "[filePath].json"
+```
+- Zorg ervoor dat het Bestandspad tussen aanhalingstekens staat.
